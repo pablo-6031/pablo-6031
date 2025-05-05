@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Pablo Carrizo
 
-<!--
-**pablo-6031/pablo-6031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Desarrollador .NET** con pasión por la tecnología aplicada a la educación.  
+Me especializo en el desarrollo de **aplicaciones web y de escritorio**, **APIs REST** y **dashboards interactivos**, integrando sistemas robustos con una experiencia de usuario clara y funcional.
 
-Here are some ideas to get you started:
+🛠️ Trabajo con tecnologías como **ASP.NET Core**, **MVC**, **WPF**, **Entity Framework** y desarrollo de **APIs REST**, integrando interfaces limpias y eficientes con bases de datos robustas y procesos automatizados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 También aplico herramientas de **Data Engineering** y **Business Intelligence** para construir **dashboards interactivos**, impulsar decisiones basadas en datos y facilitar la transformación digital en entornos escolares.
+
+---
+
+### 🧰 Tecnologías y herramientas
+- **Lenguajes y Frameworks**: C#, .NET Core, WPF, HTML, JavaScript, Bootstrap
+- **Bases de datos**: SQL Server, PostgreSQL, BigQuery
+- **Data & BI**: Looker Studio, Airflow, ETL, Google Cloud Storage
+- **Control de versiones**: Git, GitHub, Azure DevOps
+- **Metodologías**: SCRUM, desarrollo basado en pruebas, automatización
+ker Studio
+
+### 📫 Cómo contactarme:
+- ✉️ pablocarrizo.dev@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/pabloabrahamcarrizo)
+
