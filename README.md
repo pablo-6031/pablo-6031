@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Pablo Carrizo
 
-🎓 **Desarrollador .NET** con pasión por la tecnología aplicada a la educación.  
+Analista Programador Universitario con fuerte orientación a la ingeniería de datos y desarrollo de soluciones modernas, escalables y basadas en datos.
 Me especializo en el desarrollo de **aplicaciones web y de escritorio**, **APIs REST** y **dashboards interactivos**, integrando sistemas robustos con una experiencia de usuario clara y funcional.
 
 🛠️ Trabajo con tecnologías como **ASP.NET Core**, **MVC**, **WPF**, **Entity Framework** y desarrollo de **APIs REST**, integrando interfaces limpias y eficientes con bases de datos robustas y procesos automatizados.
